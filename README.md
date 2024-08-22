@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F8E0E6&height=150&section=header&text=MIN's%20GitHub&fontSize=90)
 
 
+## EWHA W.Univ. Cyber Security major
+
 ## 💻 MIN's log 💻
 
 <div style="display:flex; flex-direction:row; align-items:center;">
