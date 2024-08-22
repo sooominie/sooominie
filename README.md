@@ -3,7 +3,7 @@
 <br><br>
 # 🫧 Kim SooMin 🫧
 
-## EWHA W.Univ  Cyber Security major 🌿
+## 🌿 EWHA W.Univ  Cyber Security major 🌿
 <br>
 
 
