@@ -17,4 +17,5 @@
 </div>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooominie&theme=solarized-light&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooominie&show_icons=true&theme=solarized-light)
