@@ -2,13 +2,13 @@
 
 
 ## 💻 MIN's log 💻
-<div style="display:flex; flex-direction:row;">
-   
-    <a href="https://minsoom48.tistory.com">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+
+<div style="display:flex; flex-direction:row; align-items:center;">
+    <a href="https://minsoom48.tistory.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Badge"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://minsoom48.tistory.com/)
-</div><br>
+    <a href="https://minsoom48.tistory.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default" alt="Tistory Card">
+    </a>
+</div>
+
