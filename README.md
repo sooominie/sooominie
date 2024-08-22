@@ -1,14 +1,7 @@
-
-보안과 프로그래밍을 공부하는 학생입니다.
-
- ## 저장소 소개
-
- 앞으로 ***보안***과 ***컴퓨터 언어***를 공부하면서 배운 내용을  GitHub에 공유할 예정입니다.
-
- * 웹보안 및  c언어를 배운 경험
- * 정보보안 동아리에서 참여한 활동
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 
-## 앞으로의 계획
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooominie&show_icons=true&theme=gruvbox_light)
 
-to be defined
+
+https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=rose
