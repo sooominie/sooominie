@@ -1,1 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=MIN's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F8E0E6&text=&animation=twinkling&height=200&section=header&text=MIN's%20GitHub&fontSize=90)
+
+
+
