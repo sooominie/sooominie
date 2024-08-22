@@ -16,6 +16,3 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooominie&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sooominie=anuraghazra&layout=compact)
