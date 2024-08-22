@@ -2,6 +2,8 @@
 
 
 ## EWHA W.Univ. Cyber Security major
+<br>
+
 
 ## 💻 MIN's log 💻
 
@@ -11,4 +13,8 @@
     </a>
  
 </div>
+
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooominie&layout=compact)
+
 
