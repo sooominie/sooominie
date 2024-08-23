@@ -45,4 +45,4 @@
 <br>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=faeab2&height=120&section=footer&animation=twinkling&fontColor=452c07)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=faeab2&height=200&section=footer&animation=twinkling&fontColor=452c07)
