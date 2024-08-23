@@ -12,15 +12,18 @@
 <br><br>
 <br>
 <br>
+
 ## 🌱활동
-<img src="https://img.shields.io/badge/ 0 E-COPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/ 00 E-COPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
 
 <br>
 <br>
 <br>
 <br>
+
 ## 💻 MIN's log 💻
-<br>
+<br><br>
 <a href="https://minsoom48.tistory.com" target="_blank">
   <img src="http://img.shields.io/badge/Tistory-EA5220?style=for-the-badge&logo=Tistory&logoColor=white" />
 </a>
