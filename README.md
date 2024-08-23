@@ -15,9 +15,8 @@
 
 ## 🌱활동
 <br><br>
-<img src="https://img.shields.io/badge/ECOPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E_COPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
 
-<br>
 <br>
 <br>
 <br>
@@ -32,6 +31,7 @@
 ✨개발과 보안을 공부하고 공유합니다
 ✨스터디와 학교 전공 수업 내용을 정리합니다
 
+<br>
 <br>
 <br>
 
