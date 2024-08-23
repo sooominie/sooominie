@@ -20,10 +20,11 @@
 <br>
 <br>
 ## 💻 MIN's log 💻
+<br>
 <a href="https://minsoom48.tistory.com" target="_blank">
   <img src="http://img.shields.io/badge/Tistory-EA5220?style=for-the-badge&logo=Tistory&logoColor=white" />
 </a>
-
+<br>
 </div>
 ✨개발과 보안을 공부하고 공유합니다
 ✨스터디와 학교 전공 수업 내용을 정리합니다
