@@ -21,7 +21,7 @@
 <br>
 <br>
 
-## 💻 MIN's log 💻
+## 💻 MIN's log 
 <br><br>
 <a href="https://minsoom48.tistory.com" target="_blank">
   <img src="http://img.shields.io/badge/Tistory-EA5220?style=for-the-badge&logo=Tistory&logoColor=white" />
