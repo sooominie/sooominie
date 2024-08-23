@@ -15,7 +15,7 @@
 
 ## 🌱활동
 <br><br>
-<img src="https://img.shields.io/badge/ 00 E-COPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECOPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
 
 <br>
 <br>
