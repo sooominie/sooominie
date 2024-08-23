@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=F7F8E0&height=120&section=header&text=MIN's%20GitHub&fontSize=90&animation=twinkling&fontColor=452c07)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=faeab2&height=120&section=header&text=MIN's%20GitHub&fontSize=90&animation=twinkling&fontColor=452c07)
 
 <br><br> <br><br>
 # 🫧 Kim SooMin 🫧
@@ -44,4 +44,4 @@
 <br>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=F7F8E0&height=120&section=header&animation=twinkling&fontColor=452c07)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=faeab2&height=120&section=header&animation=twinkling&fontColor=452c07)
