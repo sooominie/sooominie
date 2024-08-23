@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=faeab2&height=180&section=header&text=MIN's%20GitHub&fontSize=70&animation=twinkling&fontColor=452c07)
 
-<br><br> <br><br>
+<br><br> <br>
 # 🫧 Kim SooMin 🫧
 <br><br>
 
