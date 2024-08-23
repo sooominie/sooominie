@@ -13,14 +13,14 @@
 <br>
 <br>
 ## 🌱활동
-<img src="https://img.shields.io/badge/E-COPS(2023.3 ~)-FA7070.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/ 0 E-COPS(2023.3 ~)-FA7070.svg?style=flat-square"/>
 
 <br>
 <br>
 <br>
 <br>
 ## 💻 MIN's log 💻
-
+![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=minsoom48&postId=12)
 
 </div>
 ✨개발과 보안을 공부하고 공유합니다
