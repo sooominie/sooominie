@@ -13,8 +13,8 @@
 <br>
 <br>
 ## 🌱활동
-<img src="https://img.shields.io/badge/E-COPS-FA7070.svg?style=flat-square&logo=springsecurity&logoColor=f8f6f6" />
-<img src="https://img.shields.io/badge/2023.3 ~-FA7070.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/E-COPS(2023.3 ~)-FA7070.svg?style=flat-square&/>
+
 <br>
 <br>
 <br>
