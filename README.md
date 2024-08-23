@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F7F8E0&height=120&section=header&text=MIN's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F7F8E0&height=120&section=header&text=MIN's%20GitHub&fontSize=90&animation=twinkling)
 
 <br><br>
 # 🫧 Kim SooMin 🫧
