@@ -13,14 +13,16 @@
 <br>
 <br>
 ## 🌱활동
-<img src="https://img.shields.io/badge/ 0 E-COPS(2023.3 ~)-FA7070.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/ 0 E-COPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
 
 <br>
 <br>
 <br>
 <br>
 ## 💻 MIN's log 💻
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=minsoom48&postId=12)
+<a href="https://minsoom48.tistory.com" target="_blank">
+  <img src="http://img.shields.io/badge/Tistory-EA5220?style=for-the-badge&logo=Tistory&logoColor=white" />
+</a>
 
 </div>
 ✨개발과 보안을 공부하고 공유합니다
