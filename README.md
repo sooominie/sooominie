@@ -42,7 +42,9 @@
 
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooominie&layout=compact)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooominie)](https://github.com/sooominie/github-readme-stats)
 <br>
 <br>
 
