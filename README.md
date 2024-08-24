@@ -41,7 +41,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooominie&show_icons=true&theme=solarized-light)
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooominie&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soㅇoominie&layout=compact)
 <br>
 <br>
 <br>
