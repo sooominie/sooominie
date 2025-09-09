@@ -15,7 +15,13 @@
 ## 🌱활동
 <br><br>
 <a href="https://www.instagram.com/ecops_ewha?igsh=MTl1MHVuczVkazZieQ==" target="_blank">
-<img src="https://img.shields.io/badge/E_COPS(2023.3 ~)-FA7070.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/E_COPS(2023.3 ~2024.8)-FA7070.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UMC 7th Node.js-1E90FF.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UMC 8th Spring boot-1E90FF.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/White Hat School 3th-7CFC00.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/금융보안아카데미 3th-FFD700.svg?style=for-the-badge"/>
+</a>
+
 
 <br>
 <br>
